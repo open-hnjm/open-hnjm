@@ -1,0 +1,18 @@
+daka:
+  enable: true
+  server_mode: false
+
+better_score:
+  enable: false
+  server_mode: false
+
+volunteer:
+  enable: true
+  server_mode: false
+
+wechat_pusher:
+  enable: true
+  server_mode: true
+  keys:
+    - public: 123456
+    - 314daka: 123456

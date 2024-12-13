@@ -1,0 +1,7 @@
+users:
+  - userid: 123456
+    password: 123
+    note: 张三的备注
+  - userid: 654321
+    password: 654
+    note: 李四的备注
